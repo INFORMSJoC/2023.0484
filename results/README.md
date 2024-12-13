@@ -2,7 +2,7 @@
 
 * The results obtained by MIP and BnP are in the [MIP](MIP) and [BnP](BnP) folders, respectively, and are classified by instance in the folder.
 
-* The results at the root node obtained using MP and MP-SP are in the root_mp(root_mp) and root_mpsp(root_mpsp) folders, respectively.
+* The results at the root node obtained using MP and MP-SP are in the [root_mp](root_mp) and [root_mpsp](root_mpsp) folders, respectively.
 
 * The results obtained by CG-based Heuristic are in the [Heuristic](Heuristic) folder.
 
