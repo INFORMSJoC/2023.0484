@@ -106,8 +106,6 @@ Please see the [results](results) directory to view the solutions and detailed d
 
 ## data
 
-The [data](data) folder includes the problem instances and solutions for the working paper "An Exact Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows" written by Jaegwan Joo and Chungmok Lee.
-
 - UPS Instances: Randomly generated from a real-life use case of UPS in the area of NC, US. Refer to Kang and Lee (2020) for details.
 - Solomon Instances: Well-known VRPTW instances by Solomon (1987).
 
