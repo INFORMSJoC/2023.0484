@@ -3,7 +3,7 @@
 # A Branch-and-Price Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.txt).
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [A Branch-and-Price Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows](https://doi.org/10.1287/ijoc.2023.0484) by Jaegwan Joo and Chungmok Lee.
 
@@ -11,9 +11,9 @@ The software and data in this repository are a snapshot of the software and data
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2024.0484
+https://doi.org/10.1287/ijoc.2023.0484
 
-https://doi.org/10.1287/ijoc.2024.0484.cd
+https://doi.org/10.1287/ijoc.2023.0484.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
@@ -23,9 +23,9 @@ Below is the BibTex for citing this snapshot of the repository.
   publisher =     {INFORMS Journal on Computing},
   title =         {A Branch-and-Price Algorithm for Robust Drone-Vehicle Routing Problem with Time Windows},
   year =          {2024},
-  doi =           {10.1287/ijoc.2024.0484.cd},
-  url =           {https://github.com/INFORMSJoC/2024.0484},
-  note =          {Available for download at \url{https://github.com/INFORMSJoC/2024.0484}},
+  doi =           {10.1287/ijoc.2023.0484.cd},
+  url =           {https://github.com/INFORMSJoC/2023.0484},
+  note =          {Available for download at \url{https://github.com/INFORMSJoC/2023.0484}},
 }
 ```
 
