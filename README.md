@@ -104,7 +104,7 @@ The results present the obtained solutions for all instances, solved using our s
 
 Please see the [results](results) directory to view the solutions and detailed descriptions.
 
-## data
+## Data
 
 - UPS Instances: Randomly generated from a real-life use case of UPS in the area of NC, US. Refer to Kang and Lee (2020) for details.
 - Solomon Instances: Well-known VRPTW instances by Solomon (1987).
